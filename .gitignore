@@ -1,0 +1,6 @@
+__pycache__
+books.db
+vcs.xml
+*.xml
+*.iml
+
